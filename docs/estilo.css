@@ -72,7 +72,6 @@ header h1{
 @media only screen and (max-width:500px){
 	.ul{
 		display: none
-
 	}
 	
 	.nav{
@@ -107,8 +106,8 @@ header h1{
 	}
 
 	.responsive-li a{
-		color: #016
-		text-decoration:none;
+		color: #016;
+		text-decoration:none
 	}
 	.responsive-ul:hover > .li-container{
 		top: -20px
@@ -119,24 +118,8 @@ header h1{
 
 h1 {
 	font-size: 24px;
-	color: #fff
 }
 
-h2 {
-	color: #fff
-}
-
-h4 {
-	color: #fff
-}
-
-table {
-	color: #fff
-}
-
-p {
-	color: #fff
-}
 @media only screen and (max-width:800px){
 	h1{
 		font-size: 20px !important
