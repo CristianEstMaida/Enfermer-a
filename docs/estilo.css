@@ -24,6 +24,7 @@ header h1{
 	font-weight: 100;
 	display: inline-block;
 	position: relative;
+	color: #fff
 }
 
 
@@ -261,9 +262,11 @@ h1 {
 }
 
 section a{
-	text-decoration: none
+	text-decoration: none;
+	color: #000
 }
 
 footer {
 	background-color: #c99;
+	color: #000
 }
